@@ -1,3 +1,4 @@
+//Weird Algorithm
 #include <bits/stdc++.h>
 using namespace std;
 
